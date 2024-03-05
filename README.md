@@ -1,1 +1,1 @@
-This (not so) awesome project is created to experimentgit notions like clone, push and pull !
+This (not so) awesome project is created to experiment git notions like clone, push and pull !
